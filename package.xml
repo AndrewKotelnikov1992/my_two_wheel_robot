@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_two_wheel_robot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Provides a two-wheel differential-drive robot model with ros2_control and RViz visualization.</description>
   <maintainer email="222brain222@gmail.com">abkotelnikov</maintainer>
   <license>TODO: License declaration</license>
 
